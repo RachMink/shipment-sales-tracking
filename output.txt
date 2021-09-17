@@ -1,0 +1,90 @@
+150 Widgets Received at: $1.00 each
+TOTAL PRICE: $150.00
+
+130 Widgets Received at: $2.00 each
+TOTAL PRICE: $260.00
+
+145 Widgets sold 
+145 at $1.30 each
+		Total sale: $188.50
+
+50 Widgets Received at: $2.50 each
+TOTAL PRICE: $125.00
+
+75 Widgets sold
+ 5 at $1.30 each 	 Sales: $6.50
+70 at $2.60 each 	 Sales: $182.00
+		Total sale: $188.50
+
+180 Widgets sold
+60 at $2.60 each 	 Sales: $156.00
+50 at $3.25 each 	 Sales: $162.50
+Sorry, remainder of 70 Widgets unavailable.
+		Total sale: $318.50
+
+50 Widgets Received at: $4.00 each
+TOTAL PRICE: $200.00
+
+30 Widgets Received at: $5.00 each
+TOTAL PRICE: $150.00
+
+40 Widgets Received at: $5.50 each
+TOTAL PRICE: $220.00
+
+next 2 customers will receive a 30% discount
+
+50 Widgets sold 
+50 at $5.20 each
+		Total sale: $182.00
+
+30 Widgets sold 
+30 at $6.50 each
+		Total sale: $136.50
+
+50 Widgets Received at: $6.00 each
+TOTAL PRICE: $300.00
+
+265 Widgets Received at: $10.00 each
+TOTAL PRICE: $2650.00
+
+60 Widgets sold
+40 at $7.15 each 	 Sales: $286.00
+20 at $7.80 each 	 Sales: $156.00
+		Total sale: $442.00
+
+next 2 customers will receive a 50% discount
+
+100 Widgets sold
+30 at $7.80 each 	 Sales: $234.00
+70 at $13.00 each 	 Sales: $910.00
+		Total sale: $572.00
+
+70 Widgets sold 
+70 at $13.00 each
+		Total sale: $455.00
+
+175 Widgets sold
+125 at $13.00 each 	 Sales: $1625.00
+Sorry, remainder of 50 Widgets unavailable.
+		Total sale: $1625.00
+
+40 Widgets Received at: $14.00 each
+TOTAL PRICE: $560.00
+
+75 Widgets Received at: $15.00 each
+TOTAL PRICE: $1125.00
+
+110 Widgets sold
+40 at $18.20 each 	 Sales: $728.00
+70 at $19.50 each 	 Sales: $1365.00
+		Total sale: $2093.00
+
+30 Widgets Received at: $16.00 each
+TOTAL PRICE: $480.00
+
+40 Widgets Received at: $18.00 each
+TOTAL PRICE: $720.00
+
+There are  5 left over widgets in stock bought at $15.00 each 
+There are 30 left over widgets in stock bought at $16.00 each 
+There are 40 left over widgets in stock bought at $18.00 each 
